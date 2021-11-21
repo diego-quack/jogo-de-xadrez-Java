@@ -7,10 +7,6 @@ public class PecaDeXadrez extends PecaDoJogo{
 	
 	private Cor cor;
 	
-	public PecaDeXadrez() {
-		
-	}
-
 	public PecaDeXadrez(Tabuleiro tabuleiro, Cor cor) {
 		super(tabuleiro);
 		this.cor = cor;

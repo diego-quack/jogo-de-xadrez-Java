@@ -19,5 +19,9 @@ public class PartidaDeXadrez {
 		}
 		return match;
 	}
+	
+	private void setupInicial() {
+		
+	}
 
 }
